@@ -6,7 +6,10 @@
 
 
 <body>
+  @include('partials.navbar')
+  <div class="container">
   <h1>About</h1>
+  </div>
 </body>
 
 </html>
